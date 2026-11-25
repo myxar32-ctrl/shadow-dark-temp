@@ -1,0 +1,19 @@
+{
+  "$schema": "../theme.schema.json",
+  "id": "shadow-dark",
+  "name": "Shadow Dark",
+  "description": {
+    "ru": "Тёмная готическая тема с серебряными элементами",
+    "en": "Dark gothic theme with silver elements"
+  },
+  "version": "1.0.0",
+  "author": {
+    "name": "Shadow Dark",
+    "github": "myxar32-ctrl"
+  },
+  "license": "MIT",
+  "accent": "#aeb9ca",
+  "background": "#080a0e",
+  "scheme": "dark",
+  "font": "montserrat"
+}
